@@ -1,0 +1,52 @@
+{"frames": {
+
+"paLeft1.png":
+{
+	"frame": {"x":2,"y":2,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":20,"h":32}
+},
+"paLeft2.png":
+{
+	"frame": {"x":2,"y":104,"w":15,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":32},
+	"sourceSize": {"w":16,"h":32}
+},
+"paMiddle.png":
+{
+	"frame": {"x":2,"y":70,"w":16,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":16,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"paRight1.png":
+{
+	"frame": {"x":2,"y":36,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":20,"h":32}
+},
+"paRight2.png":
+{
+	"frame": {"x":2,"y":138,"w":15,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":15,"h":32},
+	"sourceSize": {"w":16,"h":32}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "playerspritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":24,"h":172},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f0b921c7a55ae3f30b23d97400df3bcf:ad0b828b9fa7f173ac98a28b19dd1309:81a5aeb575ebc6293b18c0f1ccfbd479$"
+}
+}
