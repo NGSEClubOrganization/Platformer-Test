@@ -1,0 +1,84 @@
+{"frames": {
+
+"paCrouch1.png":
+{
+	"frame": {"x":41,"y":36,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+"paCrouch2.png":
+{
+	"frame": {"x":41,"y":63,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"paLeft1.png":
+{
+	"frame": {"x":2,"y":36,"w":19,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":32},
+	"sourceSize": {"w":19,"h":32}
+},
+"paLeft2.png":
+{
+	"frame": {"x":46,"y":2,"w":14,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":32},
+	"sourceSize": {"w":14,"h":32}
+},
+"paMiddle.png":
+{
+	"frame": {"x":23,"y":36,"w":16,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":32},
+	"sourceSize": {"w":16,"h":32}
+},
+"paRight1.png":
+{
+	"frame": {"x":2,"y":70,"w":19,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":32},
+	"sourceSize": {"w":19,"h":32}
+},
+"paRight2.png":
+{
+	"frame": {"x":23,"y":70,"w":14,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":32},
+	"sourceSize": {"w":14,"h":32}
+},
+"paShootLeft.png":
+{
+	"frame": {"x":2,"y":2,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"paShootRight.png":
+{
+	"frame": {"x":24,"y":2,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "playeranimations.png",
+	"format": "RGBA8888",
+	"size": {"w":62,"h":104},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:410db7b26e0d63b96aa5c29508fb7ffc:456098193571bef73e4097d78ac5a33a:d6a9fc84ff6086de6096d9ca9a8623f3$"
+}
+}
